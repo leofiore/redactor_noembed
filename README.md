@@ -8,6 +8,13 @@ This plugin allow rich media embeds via oEmbed using [noembed service](https://g
 
 **Use this plugin at your own risk**. It use some quirks and hacks to ease the manage the embedded objects, interacting with the #redactor-image-resizer object.
 
+##Test it
+use [this demo](http://leofiore.github.io/redactor_noembed/) or just clone the repository, then run
+
+    python -m SimpleHTTPServer
+
+inside the repo's directory; then, visit http://localhost:8000 and have fun.
+
 ##Usage
 
     <!-- Prereqs -->
